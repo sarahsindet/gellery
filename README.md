@@ -1,7 +1,5 @@
 # Galleri
-# PHOTO GALLERY
-
-
+# PHOTO GALLERy
 
 This is a personal gallery application that displays my photos for others to see and gives a brief description of each image.
 
