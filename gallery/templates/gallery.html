@@ -1,0 +1,16 @@
+{%extends 'base.html'%}
+
+{% block content %}
+{{block.super}}
+
+<div class="container">
+    <div class="row">
+    <!-- display images -->
+        <div>
+            <h3> {{ gallery_item.image }} </h3>
+            <h4> {{ gallery_item.name }}</h4>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
