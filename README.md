@@ -1,7 +1,7 @@
 # Galleri
 # PHOTO GALLERY
 
-<img src="/gallery/static/images/img.png">
+
 
 This is a personal gallery application that displays my photos for others to see and gives a brief description of each image.
 
